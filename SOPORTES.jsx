@@ -13,9 +13,9 @@ function SOPORTES() {
         logoSrc={logo}
         />
     
-      <ButtonFirma texto="LUNGO" textoBoton="Adjunte firma" funcion={() => console.log('it Works')}variante={"danger"}/>
+      <ButtonFirma texto="Despacha" textoBoton="Adjunte firma" funcion={() => console.log('it Works')}variante={"danger"}/>
       <ButtonFirma texto="Supervisor" textoBoton="Adjunte firma" funcion={() => console.log('it Works')}variante={"danger"}/>
-      <ButtonFirma texto="Celacho" textoBoton="Adjunte firma" funcion={() => console.log('it Works')}variante={"danger"}/>
+      <ButtonFirma texto="Guarda de Seguridad" textoBoton="Adjunte firma" funcion={() => console.log('it Works')}variante={"danger"}/>
       
       <Row className="d-flex justify-content-end">
             <RoundedButton texto="Adjuntar MT" funcion={()=>console.log('it Works')} variante={"primaria"}/>
